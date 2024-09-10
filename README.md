@@ -46,6 +46,6 @@ The primary objective of this project was to:
 ## Demonstration
 The project video has been recorded and uploaded to Microsoft Stream. The video demonstrates the setup, configuration, and validation of the AVD environment, including all required tasks. Here's the [link](https://drive.google.com/file/d/1zSAklFIwaa653S_ckipLIe9t7u-UtLTi/view?usp=sharing) to the video.
 
-![Cover](videocover.png)
+![Cover](cover.png)
 
 Thank you for reviewing my project. If you have any questions or feedback, please feel free to reach out.
