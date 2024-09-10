@@ -64,7 +64,7 @@ The primary objective of this project was to:
   - Implementation: Created application groups, added applications like Word, Excel, and PowerPoint, and assigned them to users.
 
 7. Security and Testing
-MFA Configuration:
+- MFA Configuration:
   - Purpose: Enhance security by requiring multi-factor authentication for users.
   - Implementation: Configured MFA for all users and administrators to secure access.
 - Testing and Validation:
