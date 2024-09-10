@@ -15,31 +15,31 @@ The primary objective of this project was to:
 
 
 ## Key Takeaways
-1. Azure Virtual Desktop (AVD) Deployment
+### 1. Azure Virtual Desktop (AVD) Deployment
 - VNet Setup: Configured a secure virtual network and subnets.
 - Domain Controller: Deployed and managed a Windows Server VM with Active Directory.
 
-2. Azure Active Directory (AAD) Integration
+### 2. Azure Active Directory (AAD) Integration
 - Global Administrator: Set up and configured administrative access.
 - AD Connect: Synchronized on-premises AD with Azure AD.
 
-3. User and Group Management
+### 3. User and Group Management
 - Creation: Managed users and groups in AD DS and AAD.
 - Group Assignments: Controlled access to resources and applications.
 
-4. Storage Configuration
+### 4. Storage Configuration
 - Storage Account: Set up and secured file shares with AD DS authentication.
 - Permissions: Managed access levels for different user groups.
 
-5. Multi-session VM Management
+### 5. Multi-session VM Management
 - VM Creation: Deployed Windows multi-session VMs with Microsoft 365 Apps.
 - Image Management: Created and used VM images for scaling.
 
-6. Host Pools and Application Groups
+### 6. Host Pools and Application Groups
 - Host Pools: Configured and deployed host pools.
 - Application Groups: Added and managed application groups for user access.
 
-7. Security and Testing
+### 7. Security and Testing
 - MFA: Implemented multi-factor authentication using conditional access for enhanced security.
 - Validation: Verified functionality through adding QR to my personal device in the Authenticator app.
 
